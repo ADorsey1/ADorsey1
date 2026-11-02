@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Anthony Dorsey 👋
 
-<!--
-**ADorsey1/ADorsey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build projects in Python and C#, with interests in web development, data analysis, and solving problems through code.
 
-Here are some ideas to get you started:
+My repositories include basketball forecasting, Blazor apps, and algorithm practice. I use GitHub to share what I'm building and track what I'm learning along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### 🏀 [NBA Forecast Lab](https://github.com/ADorsey1/nba-forecast-lab)
+
+An NBA forecasting pipeline and interactive Streamlit app that brings together historical data, team projections, and scenario analysis. The Creative Lab lets visitors explore roster changes and compare experiments.
+
+[Explore the live app →](https://nba-forecast.streamlit.app/)
+
+## More to explore
+
+- **[BuildBlazorApps](https://github.com/ADorsey1/BuildBlazorApps)** — Blazor application projects.
+- **[WordleSolver](https://github.com/ADorsey1/WordleSolver)** — A C# project centered on Wordle solving strategies.
+- **[NeetCode submissions](https://github.com/ADorsey1/neetcode-submissions)** — Coding problem practice.
+
+## Around my GitHub
+
+Python · C# · .NET · Blazor · Streamlit · Data analysis
+
+Thanks for stopping by! Take a look through my repositories to see what I've been working on.
